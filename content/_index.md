@@ -1,5 +1,5 @@
 ---
-title: ✍️ Neural Engine
+title: 🧠 Neural Engine⚡
 date: 2022-10-27
 toc: false
 
@@ -8,10 +8,12 @@ image:
   caption: NASA
 ---
 
-## Neural Engine. 
-Start typing in the search bar and see if there's something written.  
+## books, neuro, film, fashion, medicine, art, architecture
+Start typing in the search bar and see if there's something written. 
 
+## why this blog?
+It's a writing playground. I hope you find joy in reading. 
 
-## Public vs Private Second Brain
+## Find me on YouTube!
 
-Choose between **publishing and sharing your knowledge online or creating a private second brain**.
+Here's my [Main channel.](https://www.youtube.com/channel/UCxmWaR-efUu58xKeoSZ3ySw)
