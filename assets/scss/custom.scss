@@ -3,10 +3,7 @@ footer {
     width: 100%;
 }
 
-edit-page{
-  display: none;
-}
-
-powered-by{
-  display: none;
+footer .powered-by,
+p.edit-page{
+    display: none;
 }
