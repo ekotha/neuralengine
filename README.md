@@ -1,3 +1,3 @@
-This is a bunch of notes.
+This is a bunch of notes. As time goes on it may include audio, video, images, math, code, diagrams etc.
 
-Supports audio, video, images, math, code, [Mermaid](https://mermaid.live/) diagrams, and [much more](https://wowchemy.com/docs/content/writing-markdown-latex/)
+This blog was built from the Wowchemy theme ["Second Brain."](https://github.com/wowchemy/hugo-second-brain-theme)
