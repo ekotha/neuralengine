@@ -3,9 +3,9 @@ title: 🧠 Neural Engine⚡
 date: 2022-10-27
 toc: false
 
-image:
-  filename: covers/nasa-Q1p7bh3SHj8-unsplash.webp
-  caption: NASA
+# image:
+#   filename: covers/nasa-Q1p7bh3SHj8-unsplash.webp
+#   caption: NASA
 ---
 
 ## books, neuro, film, fashion, medicine, art, architecture
