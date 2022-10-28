@@ -7,3 +7,23 @@ footer .powered-by,
 p.edit-page{
     display: none;
 }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: arial, sans-serif;
+    font-weight: 400;
+    margin-top: 1rem;
+    margin-bottom: .5rem;
+    line-height: 1.25;
+    color: #313131;
+    text-rendering: optimizelegibility;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    -webkit-hyphens: manual;
+    -ms-hyphens: manual;
+    hyphens: manual;
+}
+
+p {
+  font-family: Merriweather, serif
+}
