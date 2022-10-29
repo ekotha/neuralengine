@@ -4,9 +4,11 @@ linktitle: Waystone Friends
 date: '2022-10-28T00:00:00+01:00'
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 3
+weight: 1
 ---
-There’s something to be said about the people in your life with whom you feel you can never get enough time with. 
+
+<em><br>There’s something to be said about the people in your life with whom you feel you can never get enough time with. </em>
+<br><br>
 As we get older, it’s harder to make new friends. That’s a natural phenomenon. Sometimes, you fall out of friendships because of newly discovered differences. Other times, you’ve simply grown apart. Bittersweet as it may be, it’s nice to cherish shared memories. Nobody can take those away from you. Yet, guilt is a tough feeling to untangle from it. How could you so easily let go of someone who once meant so much to you? It just happens, and it happens to everyone.
 <br> <br>
 The good news is that a bridge will stay standing until you set it ablaze. The “bad” news is that you never really cross it anymore. It’s not a part of your path as it once used to be. 
