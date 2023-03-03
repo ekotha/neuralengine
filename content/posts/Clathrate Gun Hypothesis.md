@@ -4,7 +4,7 @@ linktitle:  Clathrate Gun Hypothesis
 date: '2020-06-07T00:00:00+01:00'
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 5
+weight: 3
 ---
 
 <!-- # The Clathrate Gun Hypothesis or Why Methane “Burping” is Cause for Concern -->
