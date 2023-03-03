@@ -25,7 +25,7 @@ In the world of architecture, few names are as revered as Julia Morgan. A trailb
 
 ## Lasting Impact
 
-Julia Morgan, over a storied 47 year career, designed around 700 buildings, more than any other architect of the 20th century. The Hearst Castle in San Simeon, California is perhaps one of her most well-known works. She completed that project for William Randolph Hearst. 
+Julia Morgan, over a storied 46 year career, designed around 700 buildings, more than any other architect of the 20th century. The Hearst Castle in San Simeon, California is perhaps one of her most well-known works. She completed that project for William Randolph Hearst. 
 
 Most of her work can be seen in California, where she designed churches, residential homes, commercial, educational and public gathering spaces. Such proliference suggests her incredible versatility and adept nature in adapting her sensibilities to match the project at hand. 
 

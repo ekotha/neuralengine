@@ -16,4 +16,4 @@ It's a writing playground. I hope you find joy in reading.
 
 ### Find me on YouTube!
 
-Here's my [Main channel.](https://www.youtube.com/channel/UCxmWaR-efUu58xKeoSZ3ySw)
+Here's my [main channel.](https://www.youtube.com/channel/UCxmWaR-efUu58xKeoSZ3ySw)
