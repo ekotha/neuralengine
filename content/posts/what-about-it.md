@@ -4,7 +4,7 @@ title: "What About The Exception?"
 subtitle: "This comes up often."
 summary: "Whenever you give advice online or say anything there's usually a response that this doesn't apply all the time. It's not meant to apply every time, just like a heuristic isn't meant to be applied indiscriminately in every situation."
 authors: ["Eashan Kotha"]
-tags: []
+tags: ["heuristic"]
 categories: ["advice", "exceptions"]
 date: 2023-03-05T14:22:51-08:00
 lastmod: 2023-03-05T14:22:51-08:00
