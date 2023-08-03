@@ -3,6 +3,10 @@ title: Waystone Friends
 linktitle: Waystone Friends
 date: '2022-10-28T00:00:00+01:00'
 
+summary: "The special kind of friendships that you feel secure in, even if you don't see each other every day."
+authors: ["Eashan Kotha"]
+tags: ["friendships"]
+categories: ["advice", "friends"]
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---

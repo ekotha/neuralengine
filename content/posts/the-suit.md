@@ -29,14 +29,15 @@ This is an all-encompassing note on suits.
 ## Some Style Rules
 
 Navy suits can be worn with black and brown belt and shoes. Black suits don't have the same versatility.
-Shirt -> Big cuffs, high collar, good quality pearl buttons. 
+Shirt → Big cuffs, high collar, good quality pearl buttons. 
 
-Neck Size -> Should be able to fit one finger between collar and neck when shirt is fully buttoned. 
+Neck Size → Should be able to fit one finger between collar and neck when shirt is fully buttoned. 
 
 ## Terms:
 [To be entered]
 
 
 
-References
+### References
+
 [1](https://www.gentlemansgazette.com/evolution-of-menswear-suits/)
