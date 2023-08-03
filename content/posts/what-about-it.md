@@ -19,7 +19,7 @@ weight: 5
 ---
 #### Okay, let's get this out of the way. Yes, there are exceptions to everything.
 
-When we set aside general rules or come up with heuristics for what to be aware of and what to look out for, it's all to easy for a critic to hop in and say: "But what about the exception?" and pat themselves on the back. I presume they have a snarky grin on their face, more often than I picture someone asking out of pure innocence. 
+When we set aside general rules or come up with heuristics for what to be aware of and what to look out for, it's all too easy for a critic to hop in and say: "But what about the exception?" and pat themselves on the back. I presume they have a snarky grin on their face, more often than I picture someone asking out of pure innocence. 
 
 I'm not dunking on this kind of tendency but I want to explain why this type of response misses the point. 
 
