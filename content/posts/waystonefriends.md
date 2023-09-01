@@ -8,7 +8,7 @@ authors: ["Eashan Kotha"]
 tags: ["friendships"]
 categories: ["advice", "friends"]
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+# weight: 1
 ---
 
 <em><br>There’s something to be said about the people in your life with whom you feel you can never get enough time with. </em>

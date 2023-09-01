@@ -10,7 +10,7 @@ date: 2023-03-05T14:22:51-08:00
 lastmod: 2023-03-05T14:22:51-08:00
 featured: false
 draft: false
-weight: 5
+weight: 3
 
 # image:
 #   caption: ""

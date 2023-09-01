@@ -1,12 +1,11 @@
 ---
-title: two modes of thinking
-linktitle: two modes of thinking
+title: Two Modes of Thinking
+linktitle: Two Modes of Thinking
 date: '2022-12-28T00:00:00+01:00'
 
 weight: 2
 ---
-## Thinking Effectively
-The two modes of thinking were first popularized by Professor Barbara Oakley in “A Mind For Numbers.”  In the book, she talks about how we exist in one mode or the other and switch between them. The modes are<br/>
+The two modes of thinking were first popularized by Professor Barbara Oakley in her book, “A Mind For Numbers.”  In it, she talks about how we exist in one mode or the other and switch between them. The modes are<br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Focused<br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Diffuse
 
