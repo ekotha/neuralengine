@@ -1,3 +1,6 @@
-This is a bunch of notes. As time goes on it may include audio, video, images, math, code, diagrams etc.
+## Hi! This is my public knowledge garden blog.
 
-This blog was built from the Wowchemy theme ["Second Brain."](https://github.com/wowchemy/hugo-second-brain-theme)
+It has a bunch of my notes and mini blog posts. As time goes on it may include audio, video, images, math, code, diagrams etc.
+I chose Netflify for deployment and went with a custom Hugo theme that enabled quick text search and tagging right out of the box.
+
+Thanks for stopping by. :) 
