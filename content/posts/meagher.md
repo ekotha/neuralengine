@@ -30,6 +30,5 @@ She trained for several hours a day, six days a week, under the guidance of her 
 ## Regiment 
 
 
-
 ## Additional
 I've also wondered how Katie Ledecky has been so dominant in the sport. Will be good to check out her technique.  

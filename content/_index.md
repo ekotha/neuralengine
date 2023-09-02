@@ -1,19 +1,18 @@
 ---
-title: 🧠 Neural Engine⚡
-date: 2022-10-27
+title: Neuron Engine
+date: 2023-09-02
 toc: false
 
 # image:
 #   filename: covers/nasa-Q1p7bh3SHj8-unsplash.webp
 #   caption: NASA
 ---
-### About
-Start typing in the search bar and see if anything matches. :)
-<br>Interests: books, neuro, film, fashion, medicine, art, architecture...
+### Purpose
+Hi! I'm Eashan. This is archival space for old loose notes I might revisit and remix. 
 
-### Why this blog?
-It's a writing playground. I hope you find joy in reading. 
+### Start with Search or Tags
+Start typing in the search bar and see if anything matches. :)
+<br>Topics I'm Interested In: books/literature, neuroscience, film, fashion, medicine, art, architecture...
 
 ### Find me on YouTube!
-
-Here's my [main channel.](https://www.youtube.com/channel/UCxmWaR-efUu58xKeoSZ3ySw)
+Here's my [channel.](https://www.youtube.com/@eashankotha)

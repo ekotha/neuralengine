@@ -1,10 +1,7 @@
 # Configuration of Hugo
-# Guide: https://wowchemy.com/docs/getting-started/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'Neuronal Engine' # Website name
-baseURL: 'https://example.com/' # Website URL
+title: 'Neuron Engine' # Website name
+baseURL: 'https://neuronengine.net/' # Website URL
 
 ############################
 ## PAGE OPTIONS

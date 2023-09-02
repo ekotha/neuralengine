@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Define the folder containing the markdown files
+# Define the folder containing the markdown files - in case you forget type in bash wordCount.sh to test
 folder="."
 
 # Define the output file for storing the results
