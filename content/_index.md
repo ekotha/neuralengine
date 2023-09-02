@@ -1,5 +1,5 @@
 ---
-title: Neuron Engine
+title: Neuron Engine 🧠
 date: 2023-09-02
 toc: false
 
@@ -12,7 +12,7 @@ Hi! I'm Eashan. This is archival space for old loose notes I might revisit and r
 
 ### Start with Search or Tags
 Start typing in the search bar and see if anything matches. :)
-<br>Topics I'm Interested In: books/literature, neuroscience, film, fashion, medicine, art, architecture...
+<br>Here live thoughts on books/literature, neuroscience, film, fashion, medicine, art, architecture and more...
 
-### Find me on YouTube!
-Here's my [channel.](https://www.youtube.com/@eashankotha)
+### Subscribe to my YouTube channel!
+Check it out [here](https://www.youtube.com/@eashankotha)!

@@ -2,7 +2,7 @@
 
 title: "Some Notes on Event Cinema"
 subtitle: "Future of Film"
-summary: ""
+summary: "This page outlines the 'Event Cinema' Theory."
 authors: ["Eashan Kotha"]
 tags: ["film"]
 categories: ["history", "film"]
@@ -32,18 +32,19 @@ Premiere TV shows are now considered art forms, they are recognized for their ae
 
 Now, streaming platforms have emerged into their own. Short films and things like intensive documentaries are uploaded to YouTube. Apps like Vine made way for things like TikTok. 
 
-Some Twitter links: 
-https://twitter.com/eashankotha/status/1683146675395895297?s=20
+### Past Thoughts (tweets)
 
-https://twitter.com/eashankotha/status/1396676635395452937?s=20
+{{< tweet user="EashanKotha" id="1683146675395895297" >}}
 
+{{< tweet user="EashanKotha" id="1396676635395452937" >}}
 
-Films that tapped into "Event Cinema":
+<hr>
+## Films that tapped into "Event Cinema"
+
+There are several films that do event cinema right. Here's a sampling of the most successful ones. 
 - Avatar
 - Top Gun Maverick
 - Avatar 2
 - Barbienheimer (Barbie and Oppenheimer)
 - Avengers franchise
-
-
 
