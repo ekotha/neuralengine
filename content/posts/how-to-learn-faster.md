@@ -3,7 +3,7 @@
 
 title: "How to Learn Faster"
 subtitle: "Evidence Backed Learning Techniques"
-summary: ""
+summary: "There are several evidence based learning techniques that can help you learn faster. One place anyone can save time is with low-quality techniques like re-reading and highlighting."
 authors: ["Eashan Kotha"]
 tags: ["learning", "techniques"]
 categories: []

@@ -39,6 +39,7 @@ Now, streaming platforms have emerged into their own. Short films and things lik
 {{< tweet user="EashanKotha" id="1396676635395452937" >}}
 
 <hr>
+
 ## Films that tapped into "Event Cinema"
 
 There are several films that do event cinema right. Here's a sampling of the most successful ones. 
