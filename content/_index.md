@@ -14,5 +14,4 @@ Hi! I'm Eashan. This is archival space for old loose notes I might revisit and r
 Start typing in the search bar and see if anything matches. :)
 <br>Here live thoughts on books/literature, neuroscience, film, fashion, medicine, art, architecture and more...
 
-### Subscribe to my YouTube channel!
-Check it out [here](https://www.youtube.com/@eashankotha)!
+### [Subscribe to my YouTube channel!](https://www.youtube.com/@eashankotha)
