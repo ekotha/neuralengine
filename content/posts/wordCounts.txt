@@ -1,14 +1,17 @@
 Clathrate Gun Hypothesis.md: 961
-essay5.md: 949
+essay5.md: 10
+how-to-read-a-research-paper.md: 198
 eventcinema.md: 235
+scrap.md: 69
 hit pause.md: 51
 waystonefriends.md: 973
 the-suit.md: 137
 how-to-learn-faster.md: 139
-how-to-make-it-engaging.md: 231
+how-to-make-it-engaging.md: 316
 what-about-it.md: 352
-essay7.md: 951
+sarah-burton-alexander-mcqueen.md: 112
+essay7.md: 19
 meagher.md: 113
 thinking modes.md: 272
 julia_morgan.md: 467
-Total word count: 5831
+Total word count: 4424

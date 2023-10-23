@@ -42,3 +42,9 @@ A "curiosity gap" can be a simple question or situation that inspires the listen
 ### Movement 
 While deep flow state work can make it easy for us to bang away at a keyboard for hours on end or stare at the screens until our eyes are sore, you can get much more out of your working sessions by adding little moments of movement. Get up, move around, put some interesting music on. I'd recommend dance. Interrupt the pattern every now and then.
 
+10/22 Update - I wrote a little about this in a [substack post](https://open.substack.com/pub/neuralengine/p/activation-energy).
+
+## Thoughtful Analogies
+We're really good at making associations. You can think of associative memory as attaching little hooks made from smaller bits of experiences and knowledge to hold something in place. Just like velcro!
+
+Making analogies is the mind's equivalent of this. The more connectivity you have to something and the more relevance that has in your problem solving or day to day life, the easier it becomes to internalize it. 
