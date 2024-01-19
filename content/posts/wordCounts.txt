@@ -1,5 +1,6 @@
 Clathrate Gun Hypothesis.md: 961
 essay5.md: 10
+10000steps.md: 309
 how-to-read-a-research-paper.md: 198
 eventcinema.md: 235
 scrap.md: 69
@@ -14,4 +15,4 @@ essay7.md: 19
 meagher.md: 113
 thinking modes.md: 272
 julia_morgan.md: 467
-Total word count: 4424
+Total word count: 4733

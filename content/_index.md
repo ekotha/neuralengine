@@ -12,6 +12,8 @@ Hi! I'm Eashan. This is archival space for old loose notes I might revisit and r
 
 ### Start with Search or Tags
 Start typing in the search bar and see if anything matches. :)
-<br>Here live thoughts on books/literature, neuroscience, film, fashion, medicine, art, architecture and more...
+
+
+These are my raw material thoughts on books/literature, neuroscience, film, fashion, medicine, art, architecture and more.
 
 ### [Subscribe to my YouTube channel!](https://www.youtube.com/@eashankotha)

@@ -9,6 +9,8 @@ output_file="./wordCounts.txt"
 # Exclude this file from the word count
 exclude_file="_index.md"
 
+> "$output_file"
+
 # Get the list of markdown files in the folder
 while IFS= read -d '' -r file; do
   # Exclude YAML front matter from the word count
