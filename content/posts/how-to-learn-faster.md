@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "How to Learn Faster"
-subtitle: "Evidence Backed Learning Techniques"
+subtitle: "Evidence-Backed Learning Techniques"
 summary: "There are several evidence based learning techniques that can help you learn faster. One place anyone can save time is with low-quality techniques like re-reading and highlighting."
 authors: ["Eashan Kotha"]
 tags: ["learning", "techniques"]
@@ -39,3 +39,4 @@ Do this instead: <br>
 - Make practice test questions (NOT flashcards but actual test questions)
 
 Whenever you do the above, you want to try recalling everything 100% from your memory without looking at any notes. This is supposed to feel challenging because it is! The struggle means your mind is making those connections when you review your accuracy later. 
+

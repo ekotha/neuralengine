@@ -7,6 +7,7 @@ scrap.md: 69
 hit pause.md: 51
 waystonefriends.md: 973
 the-suit.md: 137
+taking-care-of-denim.md: 344
 how-to-learn-faster.md: 139
 how-to-make-it-engaging.md: 316
 what-about-it.md: 352
@@ -15,4 +16,4 @@ essay7.md: 19
 meagher.md: 113
 thinking modes.md: 272
 julia_morgan.md: 467
-Total word count: 4733
+Total word count: 5077
