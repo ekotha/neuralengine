@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Keep Your Kin Warm"
+title: "Keep the Kin Warm"
 subtitle: ""
 summary: ""
 authors: ["Eashan Kotha"]
-tags: ["keep your kin warm"]
+tags: ["keep the kin warm"]
 categories: []
 date: 2024-05-14T12:47:23-07:00
 lastmod: 2024-05-14T12:47:23-07:00
